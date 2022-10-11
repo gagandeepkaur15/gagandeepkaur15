@@ -8,7 +8,7 @@ Skills: ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-100000?style=f
 
 - 🔭 I’m currently working on this page. DSA 
 - 🌱 I’m currently working on flutter and learning  web development in web 3.0 
-- 💬 Ask me about anything[here](https://www.linkedin.com/in/gagandeep-kaur-370669239/) 
+- 💬 [LinkedIn](https://www.linkedin.com/in/gagandeep-kaur-370669239/) 
 - 📫 How to reach me: gagandeep4989@gmail.com 
 - 😄 Pronouns: her 
 - ⚡ Fun fact: I adore rain sound 
